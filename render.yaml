@@ -1,0 +1,13 @@
+services:
+  - type: worker
+    name: faucetearner-bot
+    runtime: python
+    buildCommand: "pip install -r requirements.txt"
+    startCommand: "python faucetearner.py"
+    envVars:
+      - key: EMAIL
+        fromDotEnv: true
+      - key: PASSWORD
+        fromDotEnv: true
+      - key: CHROMEDRIVER_PATH
+        fromDotEnv: true
