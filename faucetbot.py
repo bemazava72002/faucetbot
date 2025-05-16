@@ -2,7 +2,6 @@ import os
 import re
 import time
 import logging
-from dotenv import load_dotenv
 import winsound
 import undetected_chromedriver as uc
 from selenium.webdriver.common.by import By
@@ -11,9 +10,8 @@ from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException, NoSuchElementException
 
 # -------- CONFIG --------
-load_dotenv()
-EMAIL = os.getenv("EMAIL")
-PASSWORD = os.getenv("PASSWORD")
+
+
 URL = "https://faucetearner.org/login.php"
 
 LOG_FILENAME = f"faucetearner_{time.strftime('%Y%m%d_%H%M%S')}.log"

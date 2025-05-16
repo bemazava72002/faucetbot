@@ -1,0 +1,65 @@
+[07:40:18] INFO: patching driver executable C:\Users\bemazava\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[07:40:21] INFO: 🔗 Ouverture du site FaucetEarner...
+[07:40:28] INFO: 🔐 Connexion...
+[07:40:34] INFO: ✅ Connexion réussie.
+[07:40:52] INFO: ✅ Aucun timer détecté.
+[07:40:52] INFO: 🖱️ Tentative de claim...
+[07:40:52] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:41:07] INFO: ℹ️ Aucun pop-up détecté.
+[07:41:07] INFO: 🎉 Claim #1 effectué.
+[07:41:17] INFO: 📊 Claims effectués : 1
+[07:41:35] INFO: ✅ Aucun timer détecté.
+[07:41:35] INFO: 🖱️ Tentative de claim...
+[07:41:35] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:41:50] INFO: ℹ️ Aucun pop-up détecté.
+[07:41:50] INFO: 🎉 Claim #2 effectué.
+[07:42:00] INFO: 📊 Claims effectués : 2
+[07:42:18] INFO: ✅ Aucun timer détecté.
+[07:42:18] INFO: 🖱️ Tentative de claim...
+[07:42:18] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:42:33] INFO: ℹ️ Aucun pop-up détecté.
+[07:42:33] INFO: 🎉 Claim #3 effectué.
+[07:42:43] INFO: 📊 Claims effectués : 3
+[07:43:01] INFO: ✅ Aucun timer détecté.
+[07:43:01] INFO: 🖱️ Tentative de claim...
+[07:43:02] WARNING: ⚠️ Claim échoué : Message: element click intercepted: Element <button type="button" onclick="apireq()" class="m-auto mt-2 reqbtn btn solid_btn text-white d-flex align-items-center" disabled="">...</button> is not clickable at point (1088, 556). Other element would receive the click: <form action="" method="POST">...</form>
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x0077FC83+61635]
+	GetHandleVerifier [0x0077FCC4+61700]
+	(No symbol) [0x005A05D3]
+	(No symbol) [0x005EECB0]
+	(No symbol) [0x005ED054]
+	(No symbol) [0x005EABF7]
+	(No symbol) [0x005E9EFB]
+	(No symbol) [0x005DE5A5]
+	(No symbol) [0x0060D29C]
+	(No symbol) [0x005DE034]
+	(No symbol) [0x0060D514]
+	(No symbol) [0x0062E61B]
+	(No symbol) [0x0060D096]
+	(No symbol) [0x005DC840]
+	(No symbol) [0x005DD6A4]
+	GetHandleVerifier [0x00A045A3+2701795]
+	GetHandleVerifier [0x009FFD26+2683238]
+	GetHandleVerifier [0x00A1AA6E+2793134]
+	GetHandleVerifier [0x00796945+155013]
+	GetHandleVerifier [0x0079D02D+181357]
+	GetHandleVerifier [0x007874D8+92440]
+	GetHandleVerifier [0x00787680+92864]
+	GetHandleVerifier [0x00772070+5296]
+	BaseThreadInitThunk [0x7608FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AA82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77AA827E+238]
+
+[07:43:03] INFO: 📊 Claims effectués : 3
+[07:43:20] INFO: ✅ Aucun timer détecté.
+[07:47:20] INFO: 🖱️ Tentative de claim...
+[07:47:21] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:47:22] INFO: ℹ️ Aucun pop-up détecté.
+[07:47:22] INFO: 🎉 Claim #4 effectué.
+[07:47:32] INFO: 📊 Claims effectués : 4
+[07:47:36] INFO: ✅ Aucun timer détecté.
+[07:47:36] INFO: 🖱️ Tentative de claim...
+[07:47:38] INFO: ⛔ Bot arrêté manuellement.
+[07:47:38] INFO: 🚪 Fermeture du navigateur.

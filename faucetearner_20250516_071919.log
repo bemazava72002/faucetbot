@@ -1,0 +1,164 @@
+[07:19:59] INFO: patching driver executable C:\Users\bemazava\appdata\roaming\undetected_chromedriver\undetected_chromedriver.exe
+[07:20:02] INFO: 🔗 Ouverture du site FaucetEarner...
+[07:20:11] INFO: 🔐 Connexion...
+[07:20:17] INFO: ✅ Connexion réussie.
+[07:20:34] INFO: ✅ Aucun timer détecté.
+[07:20:34] INFO: 🖱️ Tentative de claim...
+[07:20:34] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:20:49] INFO: ℹ️ Aucun pop-up détecté.
+[07:20:49] INFO: 🎉 Claim #1 effectué.
+[07:20:59] INFO: 📊 Claims effectués : 1
+[07:21:17] INFO: ✅ Aucun timer détecté.
+[07:21:17] INFO: 🖱️ Tentative de claim...
+[07:21:17] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:21:32] INFO: ℹ️ Aucun pop-up détecté.
+[07:21:32] INFO: 🎉 Claim #2 effectué.
+[07:21:42] INFO: 📊 Claims effectués : 2
+[07:22:52] INFO: ✅ Aucun timer détecté.
+[07:22:52] INFO: 🖱️ Tentative de claim...
+[07:22:52] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:23:08] INFO: ℹ️ Aucun pop-up détecté.
+[07:23:08] INFO: 🎉 Claim #3 effectué.
+[07:23:18] INFO: 📊 Claims effectués : 3
+[07:23:35] INFO: ✅ Aucun timer détecté.
+[07:23:35] INFO: 🖱️ Tentative de claim...
+[07:23:35] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:23:51] INFO: ℹ️ Aucun pop-up détecté.
+[07:23:51] INFO: 🎉 Claim #4 effectué.
+[07:24:01] INFO: 📊 Claims effectués : 4
+[07:24:18] INFO: ✅ Aucun timer détecté.
+[07:24:18] INFO: 🖱️ Tentative de claim...
+[07:24:18] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:24:34] INFO: ℹ️ Aucun pop-up détecté.
+[07:24:34] INFO: 🎉 Claim #5 effectué.
+[07:24:44] INFO: 📊 Claims effectués : 5
+[07:25:01] INFO: ✅ Aucun timer détecté.
+[07:25:01] INFO: 🖱️ Tentative de claim...
+[07:25:02] WARNING: ⚠️ Claim échoué : Message: element click intercepted: Element <button type="button" onclick="apireq()" class="m-auto mt-2 reqbtn btn solid_btn text-white d-flex align-items-center" disabled="">...</button> is not clickable at point (1088, 556). Other element would receive the click: <form action="" method="POST">...</form>
+  (Session info: chrome=136.0.7103.93)
+Stacktrace:
+	GetHandleVerifier [0x0052FC83+61635]
+	GetHandleVerifier [0x0052FCC4+61700]
+	(No symbol) [0x003505D3]
+	(No symbol) [0x0039ECB0]
+	(No symbol) [0x0039D054]
+	(No symbol) [0x0039ABF7]
+	(No symbol) [0x00399EFB]
+	(No symbol) [0x0038E5A5]
+	(No symbol) [0x003BD29C]
+	(No symbol) [0x0038E034]
+	(No symbol) [0x003BD514]
+	(No symbol) [0x003DE61B]
+	(No symbol) [0x003BD096]
+	(No symbol) [0x0038C840]
+	(No symbol) [0x0038D6A4]
+	GetHandleVerifier [0x007B45A3+2701795]
+	GetHandleVerifier [0x007AFD26+2683238]
+	GetHandleVerifier [0x007CAA6E+2793134]
+	GetHandleVerifier [0x00546945+155013]
+	GetHandleVerifier [0x0054D02D+181357]
+	GetHandleVerifier [0x005374D8+92440]
+	GetHandleVerifier [0x00537680+92864]
+	GetHandleVerifier [0x00522070+5296]
+	BaseThreadInitThunk [0x7608FCC9+25]
+	RtlGetAppContainerNamedObjectPath [0x77AA82AE+286]
+	RtlGetAppContainerNamedObjectPath [0x77AA827E+238]
+
+[07:25:03] INFO: 📊 Claims effectués : 5
+[07:25:20] INFO: ✅ Aucun timer détecté.
+[07:25:20] INFO: 🖱️ Tentative de claim...
+[07:25:21] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:25:36] INFO: ℹ️ Aucun pop-up détecté.
+[07:25:36] INFO: 🎉 Claim #6 effectué.
+[07:25:46] INFO: 📊 Claims effectués : 6
+[07:26:04] INFO: ✅ Aucun timer détecté.
+[07:26:04] INFO: 🖱️ Tentative de claim...
+[07:26:04] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:26:19] INFO: ℹ️ Aucun pop-up détecté.
+[07:26:19] INFO: 🎉 Claim #7 effectué.
+[07:26:29] INFO: 📊 Claims effectués : 7
+[07:26:47] INFO: ✅ Aucun timer détecté.
+[07:26:47] INFO: 🖱️ Tentative de claim...
+[07:26:47] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:27:02] INFO: ℹ️ Aucun pop-up détecté.
+[07:27:02] INFO: 🎉 Claim #8 effectué.
+[07:27:12] INFO: 📊 Claims effectués : 8
+[07:27:30] INFO: ✅ Aucun timer détecté.
+[07:27:30] INFO: 🖱️ Tentative de claim...
+[07:27:30] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:27:46] INFO: ℹ️ Aucun pop-up détecté.
+[07:27:46] INFO: 🎉 Claim #9 effectué.
+[07:27:56] INFO: 📊 Claims effectués : 9
+[07:28:13] INFO: ✅ Aucun timer détecté.
+[07:28:13] INFO: 🖱️ Tentative de claim...
+[07:28:13] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:28:29] INFO: ℹ️ Aucun pop-up détecté.
+[07:28:29] INFO: 🎉 Claim #10 effectué.
+[07:28:39] INFO: 📊 Claims effectués : 10
+[07:28:56] INFO: ✅ Aucun timer détecté.
+[07:28:56] INFO: 🖱️ Tentative de claim...
+[07:28:56] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:29:12] INFO: ℹ️ Aucun pop-up détecté.
+[07:29:12] INFO: 🎉 Claim #11 effectué.
+[07:29:22] INFO: 📊 Claims effectués : 11
+[07:29:39] INFO: ✅ Aucun timer détecté.
+[07:29:39] INFO: 🖱️ Tentative de claim...
+[07:29:39] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:29:55] INFO: ℹ️ Aucun pop-up détecté.
+[07:29:55] INFO: 🎉 Claim #12 effectué.
+[07:30:05] INFO: 📊 Claims effectués : 12
+[07:30:22] INFO: ✅ Aucun timer détecté.
+[07:30:22] INFO: 🖱️ Tentative de claim...
+[07:30:22] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:30:38] INFO: ℹ️ Aucun pop-up détecté.
+[07:30:38] INFO: 🎉 Claim #13 effectué.
+[07:30:48] INFO: 📊 Claims effectués : 13
+[07:31:05] INFO: ✅ Aucun timer détecté.
+[07:31:05] INFO: 🖱️ Tentative de claim...
+[07:31:05] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:31:21] INFO: ℹ️ Aucun pop-up détecté.
+[07:31:21] INFO: 🎉 Claim #14 effectué.
+[07:31:31] INFO: 📊 Claims effectués : 14
+[07:31:49] INFO: ✅ Aucun timer détecté.
+[07:31:49] INFO: 🖱️ Tentative de claim...
+[07:31:49] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:32:04] INFO: ℹ️ Aucun pop-up détecté.
+[07:32:04] INFO: 🎉 Claim #15 effectué.
+[07:32:14] INFO: 📊 Claims effectués : 15
+[07:32:31] INFO: ✅ Aucun timer détecté.
+[07:32:31] INFO: 🖱️ Tentative de claim...
+[07:32:32] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:32:47] INFO: ℹ️ Aucun pop-up détecté.
+[07:32:47] INFO: 🎉 Claim #16 effectué.
+[07:32:57] INFO: 📊 Claims effectués : 16
+[07:33:15] INFO: ✅ Aucun timer détecté.
+[07:33:15] INFO: 🖱️ Tentative de claim...
+[07:33:15] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:33:30] INFO: ℹ️ Aucun pop-up détecté.
+[07:33:30] INFO: 🎉 Claim #17 effectué.
+[07:33:40] INFO: 📊 Claims effectués : 17
+[07:33:57] INFO: ✅ Aucun timer détecté.
+[07:33:57] INFO: 🖱️ Tentative de claim...
+[07:33:57] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:34:13] INFO: ℹ️ Aucun pop-up détecté.
+[07:34:13] INFO: 🎉 Claim #18 effectué.
+[07:34:23] INFO: 📊 Claims effectués : 18
+[07:34:40] INFO: ✅ Aucun timer détecté.
+[07:34:40] INFO: 🖱️ Tentative de claim...
+[07:34:41] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:34:56] INFO: ℹ️ Aucun pop-up détecté.
+[07:34:56] INFO: 🎉 Claim #19 effectué.
+[07:35:06] INFO: 📊 Claims effectués : 19
+[07:35:23] INFO: ✅ Aucun timer détecté.
+[07:35:23] INFO: 🖱️ Tentative de claim...
+[07:35:23] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:35:39] INFO: ℹ️ Aucun pop-up détecté.
+[07:35:39] INFO: 🎉 Claim #20 effectué.
+[07:35:49] INFO: 📊 Claims effectués : 20
+[07:36:06] INFO: ✅ Aucun timer détecté.
+[07:36:06] INFO: 🖱️ Tentative de claim...
+[07:36:06] INFO: 🧾 Vérification du pop-up de confirmation...
+[07:36:13] INFO: ℹ️ Aucun pop-up détecté.
+[07:36:13] INFO: 🎉 Claim #21 effectué.
+[07:36:13] INFO: ⛔ Bot arrêté manuellement.
+[07:36:13] INFO: 🚪 Fermeture du navigateur.
